@@ -1,0 +1,6 @@
+{
+  "name": "Twende Events",
+  "description": "Find events, stays, tours, and matchday experiences across Kampala, Nairobi, Dar es Salaam and East Africa — book directly on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
